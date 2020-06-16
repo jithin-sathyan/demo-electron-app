@@ -1,0 +1,23 @@
+{
+  "name": "demo-electron-app",
+  "version": "1.0.0",
+  "description": "Sample electron app for demo purpose",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithin-sathyan/demo-electron-app.git"
+  },
+  "author": "Jithin Sathyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jithin-sathyan/demo-electron-app/issues"
+  },
+  "homepage": "https://github.com/jithin-sathyan/demo-electron-app#readme",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  }
+}
